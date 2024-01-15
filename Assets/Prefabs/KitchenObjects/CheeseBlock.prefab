@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 1169597557010444907}
   - component: {fileID: 1128996948097043577}
   - component: {fileID: 4018929933010425270}
+  - component: {fileID: 1743013006855904139}
   m_Layer: 0
   m_Name: CheeseBlock
   m_TagString: Untagged
@@ -67,6 +68,18 @@ MonoBehaviour:
   SpawnWithObservers: 1
   DontDestroyWithOwner: 0
   AutoObjectParentSync: 1
+--- !u!114 &1743013006855904139
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7050928191217532559}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a35fa93a7c5a624481f2dd44223e278, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &5386412852321286561
 PrefabInstance:
   m_ObjectHideFlags: 0
